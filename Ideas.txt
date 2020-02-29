@@ -1,0 +1,4 @@
+1. update ranks based on score of the countries that people can visit.
+2. Compare the new and previous ranks.
+2. do double update based on the new scores.
+3. See change in ranks.
